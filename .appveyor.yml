@@ -10,4 +10,5 @@ build: off
 build_script:
   - npm run build # скрипт сборки
 test_script:
+  - npm run test
   - npm run lint  # скрипт прверки
